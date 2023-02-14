@@ -1,0 +1,20 @@
+2023-02-08 16:33:34 INFO  CreditCardService:20 - Bhavyashree
+2023-02-08 16:37:03 INFO  CreditCardService:28 - Added new credit card details
+2023-02-08 18:15:04 INFO  CreditCardService:21 - Default page
+2023-02-08 22:42:15 INFO  CreditCardService:25 - Added new credit card details
+2023-02-08 22:47:21 INFO  CreditCardService:18 - Default page
+2023-02-08 22:49:22 INFO  CreditCardService:25 - Added new credit card details
+2023-02-08 22:51:13 INFO  CreditCardService:33 - Get credit card details 1002
+2023-02-08 22:51:21 INFO  CreditCardService:33 - Get credit card details 1001
+2023-02-08 22:51:34 INFO  CreditCardService:25 - Added new credit card details
+2023-02-08 22:51:58 INFO  CreditCardService:25 - Added new credit card details
+2023-02-08 22:58:22 INFO  CreditCardService:35 - Getting details of all the Credit cards
+2023-02-08 22:59:04 INFO  CreditCardService:43 - Get credit card details 14
+2023-02-08 23:09:33 INFO  CreditCardService:49 - Update Credit Card Details
+2023-02-09 15:05:30 INFO  CreditCardService:31 - Added new credit card details CreditCard(id=19, accountNumber=1235, customerId=Ac1235, cardNumber=54320, validity=Mar2026, cvv=320, cardHolderName=Akshaya)
+2023-02-09 15:34:48 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-09 15:37:15 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-09 15:38:32 INFO  CreditCardService:49 - Get credit card details 14
+2023-02-09 15:40:15 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-09 15:46:03 INFO  CreditCardService:49 - Get credit card details 12
+2023-02-09 15:47:28 INFO  CreditCardService:40 - Getting details of all the Credit cards
