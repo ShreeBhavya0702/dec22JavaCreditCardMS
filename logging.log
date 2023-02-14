@@ -18,3 +18,7 @@
 2023-02-09 15:40:15 INFO  CreditCardService:40 - Getting details of all the Credit cards
 2023-02-09 15:46:03 INFO  CreditCardService:49 - Get credit card details 12
 2023-02-09 15:47:28 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-14 16:46:01 INFO  CreditCardService:24 - Default page
+2023-02-14 16:46:22 INFO  CreditCardService:30 - Added new credit card details CreditCard(id=1, accountNumber=1236, customerId=Ac1236, cardNumber=64320, validity=Feb2026, cvv=320, cardHolderName=Bhavya)
+2023-02-14 16:46:30 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-14 16:47:05 INFO  CreditCardService:49 - Get credit card details 15
