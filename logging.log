@@ -18,7 +18,31 @@
 2023-02-09 15:40:15 INFO  CreditCardService:40 - Getting details of all the Credit cards
 2023-02-09 15:46:03 INFO  CreditCardService:49 - Get credit card details 12
 2023-02-09 15:47:28 INFO  CreditCardService:40 - Getting details of all the Credit cards
-2023-02-14 16:46:01 INFO  CreditCardService:24 - Default page
-2023-02-14 16:46:22 INFO  CreditCardService:30 - Added new credit card details CreditCard(id=1, accountNumber=1236, customerId=Ac1236, cardNumber=64320, validity=Feb2026, cvv=320, cardHolderName=Bhavya)
-2023-02-14 16:46:30 INFO  CreditCardService:40 - Getting details of all the Credit cards
-2023-02-14 16:47:05 INFO  CreditCardService:49 - Get credit card details 15
+2023-02-14 17:03:16 INFO  CreditCardService:24 - Default page
+2023-02-14 17:03:33 INFO  CreditCardService:30 - Added new credit card details CreditCard(id=17, accountNumber=1236, customerId=Ac1236, cardNumber=64320, validity=Feb2026, cvv=320, cardHolderName=Bhavya)
+2023-02-14 17:03:42 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-14 17:04:06 INFO  CreditCardService:49 - Get credit card details 16
+2023-02-14 17:04:16 INFO  CreditCardService:30 - Added new credit card details CreditCard(id=16, accountNumber=1236, customerId=Ac1236, cardNumber=64320, validity=Feb2026, cvv=320, cardHolderName=Bhavya)
+2023-02-14 17:04:29 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-14 18:14:21 INFO  CreditCardService:67 - Account deleted 14
+2023-02-14 18:14:34 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-14 18:14:51 INFO  CreditCardService:67 - Account deleted 16
+2023-02-14 18:14:57 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-14 18:15:12 INFO  CreditCardService:67 - Account deleted 15
+2023-02-14 18:15:41 INFO  CreditCardService:67 - Account deleted 13
+2023-02-14 18:15:46 INFO  CreditCardService:67 - Account deleted 12
+2023-02-14 18:15:53 INFO  CreditCardService:67 - Account deleted 11
+2023-02-14 18:15:57 INFO  CreditCardService:67 - Account deleted 10
+2023-02-14 18:16:03 INFO  CreditCardService:67 - Account deleted 19
+2023-02-14 18:16:08 INFO  CreditCardService:67 - Account deleted 9
+2023-02-14 18:16:13 INFO  CreditCardService:67 - Account deleted 8
+2023-02-14 18:16:18 INFO  CreditCardService:67 - Account deleted 7
+2023-02-14 18:16:23 INFO  CreditCardService:67 - Account deleted 6
+2023-02-14 18:16:27 INFO  CreditCardService:67 - Account deleted 5
+2023-02-14 18:16:33 INFO  CreditCardService:40 - Getting details of all the Credit cards
+2023-02-14 18:18:02 INFO  CreditCardService:67 - Account deleted 4
+2023-02-16 11:12:01 INFO  CreditCardService:38 - Default page
+2023-02-16 11:39:29 WARN  CreditCardService:156 - File not found
+2023-02-16 11:40:39 INFO  CreditCardService:37 - Default page
+2023-02-16 11:43:36 INFO  CreditCardService:53 - Getting details of all the Credit cards
+2023-02-20 15:23:02 INFO  CreditCardService:26 - Default page
